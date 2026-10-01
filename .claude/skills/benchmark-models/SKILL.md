@@ -1,0 +1,1 @@
+/Users/bakhtiyarshabdanov/conductor/repos/flowers-platform-inspect/.claude/skills/gstack/benchmark-models/SKILL.md

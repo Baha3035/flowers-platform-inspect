@@ -1,0 +1,1 @@
+/Users/bakhtiyarshabdanov/conductor/repos/flowers-platform-inspect/.claude/skills/gstack/plan-ceo-review/SKILL.md
